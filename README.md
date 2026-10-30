@@ -1,3 +1,7 @@
+# The firmware here is out of date. The latest hex files can be downloaded from the [roversa2 repo](https://github.com/Roversa-Robotics/roversa2).
+
+---
+
 # microbit-v2-samples
 
 [![Native Build Status](https://github.com/lancaster-university/microbit-v2-samples/actions/workflows/build.yml/badge.svg)](https://github.com/lancaster-university/microbit-v2-samples/actions/workflows/build.yml) [![Docker Build Status](https://github.com/lancaster-university/microbit-v2-samples/actions/workflows/docker-image.yml/badge.svg)](https://github.com/lancaster-university/microbit-v2-samples/actions/workflows/docker-image.yml)
